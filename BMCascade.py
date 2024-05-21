@@ -39,4 +39,4 @@ if st.button('SUBMIT'):
     name = f_name.capitalize()
     msg = msgs[intpos]
     
-    st.write(name +" Brand, Insights & Segments Cascade. "+msg)
+    st.write(name + msg)
