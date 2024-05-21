@@ -10,7 +10,7 @@ import random
 
 st.write("""
  
-# Welcome to Brand, Insights & Segments cascade
+# Welcome to Brand, Insights & Segments Cascade
         
          """)
 
@@ -39,4 +39,4 @@ if st.button('SUBMIT'):
     name = f_name.capitalize()
     msg = msgs[intpos]
     
-    st.write(name +" Welcome to B&M Mission Cascade. "+msg)
+    st.write(name +" Brand, Insights & Segments Cascade. "+msg)
