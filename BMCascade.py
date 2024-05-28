@@ -36,8 +36,7 @@ msgs = ['Your tech insights are like hidden gems in the digital finance landscap
         'Hello there! Your technological prowess is a beacon of inspiration. Keep shining bright!',
         'Welcome! Your passion for innovation is truly inspiring. Keep pushing boundaries and achieving greatness!',
         'Hey you! Just a reminder that your hard work and dedication are making a real difference. Keep on shining!',
-        'Hello! Your tech-savvy skills are unparalleled. Keep up the amazing work and continue to inspire others to shine on!',
-        ]
+        'Hello! Your tech-savvy skills are unparalleled. Keep up the amazing work and continue to inspire others to shine on!' ]
 
 
 f_name = st.text_input('Enter your first name')
