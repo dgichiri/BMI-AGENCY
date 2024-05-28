@@ -26,7 +26,17 @@ msgs = ['Your tech insights are like hidden gems in the digital finance landscap
         'Your strategic thinking and problem-solving abilities are invaluable assets to our team. Keep shining bright!',
         'Looking gorgeous as ever! loving the outfit also, we see the glow.',
         'Your bubbly yet grounded approach to everything is a breath of fresh air in this tech space. You are doing well, keep up!',
-        'Your warmth and appreciation for people radiates all through'
+        'Your warmth and appreciation for people radiates all through',
+        'Hey ! Just wanted to remind you that your brilliance shines through in everything you do. Keep up the amazing work!',
+        'Welcome! Your dedication and hard work haven't gone unnoticed. Keep shining bright!',
+        'Hey! Your tech-savvy skills are truly remarkable. Keep pushing boundaries and making waves! Usiache, keep on shining !', 
+        'Hey there! Your innovative approach to technology is inspiring. Keep up the fantastic work.',
+        'Hi, Your expertise in technology is truly impressive. Keep shining in everything you do!',
+        'Hey! Your commitment to excellence is truly commendable. Keep shining through the day!', 
+        'Hello there! Your technological prowess is a beacon of inspiration. Keep shining bright!',
+        'Welcome! Your passion for innovation is truly inspiring. Keep pushing boundaries and achieving greatness!',
+        'Hey you! Just a reminder that your hard work and dedication are making a real difference. Keep on shining!',
+        'Hello! Your tech-savvy skills are unparalleled. Keep up the amazing work and continue to inspire others to shine on!',
         ]
 
 
