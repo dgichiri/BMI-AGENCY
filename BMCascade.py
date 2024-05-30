@@ -10,7 +10,7 @@ import random
 
 st.write("""
  
-# Welcome to Brand, Insights & Segments Cascade
+# Welcome to Shine Kenya NCP Promo Launch
         
          """)
 
