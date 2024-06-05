@@ -10,7 +10,7 @@ import random
 
 st.write("""
  
-# Welcome to Shine Kenya NCP Promo Launch
+# Welcome to SAFARICOM ENCHANTED AFRICAN GALA
         
          """)
 
