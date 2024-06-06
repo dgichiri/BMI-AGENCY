@@ -14,8 +14,9 @@ st.write("""
         
          """)
 
-msgs = [‘From the bench, you radiate fairness and integrity. Keep lighting up the legal world! 
-You rule with wisdom and grace, keep bringing justice to light!’,
+msgs = [
+‘From the bench, you radiate fairness and integrity. Keep lighting up the legal world!', 
+'You rule with wisdom and grace, keep bringing justice to light!’,
 
 ‘With each argument, keep igniting the flame of righteousness. Shine on, champion of the law!’,
 
