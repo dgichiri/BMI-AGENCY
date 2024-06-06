@@ -10,32 +10,23 @@ import random
 
 st.write("""
  
-# Welcome to SAFARICOM ENCHANTED AFRICAN GALA
+# Welcome to Safaricom Enchanted African Gala
         
          """)
 
-msgs = ['Your tech insights are like hidden gems in the digital finance landscape.',
-        'Your determination in tackling tech challenges is truly inspiring',
-        'Your dedication to excellence is like a heavenly virtue, infusing our projects with the essence of success and achievement',
-        'Your tech skills are like the backbone of our digital infrastructure, providing stability and reliability in an ever-changing landscape',
-        'You demonstrates a high level of creativity in developing innovative brand communication strategies',
-        'Your tech insights are like guiding stars in the digital universe, illuminating paths to innovation and progress. Keep shining bright and leading the way',
-        'Your determination in the face of technical challenges is like a force of nature. Your resilience and tenacity propel us forward, overcoming obstacles and achieving greatness.',
-        'Your tech expertise is like a cornerstone, providing stability and strength to our digital endeavors. Keep building and fortifying our technological foundations!',
-        'Your tech insights are like a guiding light, illuminating the path to innovation and progress.',
-        'Your strategic thinking and problem-solving abilities are invaluable assets to our team. Keep shining bright!',
-        'Looking gorgeous as ever! loving the outfit also, we see the glow.',
-        'Your bubbly yet grounded approach to everything is a breath of fresh air in this tech space. You are doing well, keep up!',
-        'Your warmth and appreciation for people radiates all through',
-        'Hey ! Just wanted to remind you that your brilliance shines through in everything you do. Keep up the amazing work!',
-        'Hey! Your tech-savvy skills are truly remarkable. Keep pushing boundaries and making waves! Usiache, keep on shining !', 
-        'Hey there! Your innovative approach to technology is inspiring. Keep up the fantastic work.',
-        'Hi, Your expertise in technology is truly impressive. Keep shining in everything you do!',
-        'Hey! Your commitment to excellence is truly commendable. Keep shining through the day!', 
-        'Hello there! Your technological prowess is a beacon of inspiration. Keep shining bright!',
-        'Welcome! Your passion for innovation is truly inspiring. Keep pushing boundaries and achieving greatness!',
-        'Hey you! Just a reminder that your hard work and dedication are making a real difference. Keep on shining!',
-        'Hello! Your tech-savvy skills are unparalleled. Keep up the amazing work and continue to inspire others to shine on!' ]
+msgs = [‘From the bench, you radiate fairness and integrity. Keep lighting up the legal world! 
+You rule with wisdom and grace, keep bringing justice to light!’,
+
+‘With each argument, keep igniting the flame of righteousness. Shine on, champion of the law!’,
+
+‘In the realm of justice, you are a beacon of hope and a beacon of light. Together, Let's shine bright, legal luminaries!’, 
+
+‘With each verdict, you paint the world with hues of fairness and hues of truth. Let your shine illuminate the path to righteousness!’, 
+
+‘In the courtroom, our words are like rays of sunlight piercing through darkness. Let's shine on, custodians of justice!’,
+
+‘From the halls of justice, you unleash waves of brilliance and waves of integrity. Together, we'll illuminate the path to a brighter future!’,
+ ]
 
 
 f_name = st.text_input('Enter your first name')
