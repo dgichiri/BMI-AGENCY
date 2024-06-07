@@ -10,7 +10,7 @@ import random
 
 st.write("""
  
-# Welcome to Safaricom Enchanted African Gala
+# Welcome to Safaricom Enchanted African Gala.
         
          """)
 
